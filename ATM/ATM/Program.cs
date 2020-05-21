@@ -41,7 +41,6 @@ namespace ATM
                 foreach (var item in cards)
                 {
                     itemIndex++;
-                    Console.WriteLine(itemIndex);
 
                     foreach (PropertyInfo property in propertiesCard)
                     {

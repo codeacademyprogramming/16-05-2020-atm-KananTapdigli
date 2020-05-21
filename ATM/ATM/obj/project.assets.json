@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\source\\repos\\ATM\\ATM\\ATM.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Desktop\\16-05-2020-atm-KananTapdigli\\ATM\\ATM\\ATM.csproj",
       "projectName": "ATM",
-      "projectPath": "C:\\Users\\Kenan\\source\\repos\\ATM\\ATM\\ATM.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Desktop\\16-05-2020-atm-KananTapdigli\\ATM\\ATM\\ATM.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\source\\repos\\ATM\\ATM\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Desktop\\16-05-2020-atm-KananTapdigli\\ATM\\ATM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
