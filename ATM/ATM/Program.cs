@@ -114,7 +114,9 @@ namespace ATM
                                             if (count <= activeCard.Balance)
                                             {
                                                 activeCard.DecreaseBalance(count);
+                                                Console.WriteLine("======================================");
                                                 Console.WriteLine($"Balansinizdan {count} AZN Cekildi");
+                                                Console.WriteLine("======================================");
                                                 activeCard.ShowBalance();
                                             }
                                             else
